@@ -10,4 +10,4 @@ This folder contains my Java programming fundamentals practice.
 - Loops
 - Methods
 - Arrays
-- Object-Oriented Programming
+- Object-Oriented Programming.
